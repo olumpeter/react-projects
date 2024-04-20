@@ -1,6 +1,6 @@
 # React projects
 
-This repository carry react projects that I did for active learning. They're meant to take me from "beginner" to "comfortable" as far as web development using React and ReactDOM is concerned.
+This repository carry react projects that I did for active learning. They're meant to take you from "beginner" to "comfortable" level as far as web development using React and ReactDOM is concerned.
 
 ## Content:
 
