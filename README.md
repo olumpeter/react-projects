@@ -5,3 +5,4 @@ This repository carry react projects that I did for active learning. They're mea
 ## Content:
 
 1. [Setting up your first React app](https://github.com/olumpeter/001-setting-up-your-first-react-app)
+1. [Starting fresh](https://github.com/olumpeter/002-starting-fresh)
