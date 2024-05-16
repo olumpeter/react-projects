@@ -5,4 +5,4 @@ This repository carry react projects that I did for active learning. They're mea
 ## Content:
 
 1. [Creating and nesting components](https://github.com/olumpeter/react-projects/tree/main/001-creating-and-nesting-components)
-1. []()
+1. [Writing markup with JSX](https://github.com/olumpeter/react-projects/tree/main/002-writing-markup-with-jsx)
