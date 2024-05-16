@@ -70,10 +70,10 @@ function MyButton() {
 <dl>
   Use the following URL:
   <dd>
-    https://olumpeter.github.io/react-foundations/004-adding-interactivity-with-state/
+    https://olumpeter.github.io/react-project/001-creating-and-nesting-components/
   </dd>
   or click the following link:
   <dd>
-    <a href="https://olumpeter.github.io/react-foundations/004-adding-interactivity-with-state/">Visit website</a>
+    <a href="https://olumpeter.github.io/react-projects/001-creating-and-nesting-components/">Visit website</a>
   </dd>
 </dl>
