@@ -11,9 +11,9 @@ Often, you’ll want your component to “remember” some information and displ
         <title>Updating the screen</title>
 
         <meta charset="utf-8"/>
-        <meta name="viewport" charset="width=device-width, initial-scale=1"/>
-        <meta name="description" charset="Displaying data"/>
-        <meta name="author" charset="Peter Olum"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="description" content="Updating the screen"/>
+        <meta name="author" content="Peter Olum"/>
 
         <script src="https://unpkg.com/react@18/umd/react.development.js" defer></script>
         <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" defer></script>
