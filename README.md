@@ -10,3 +10,4 @@ This repository carry react projects that I did for active learning. They're mea
 1. [Displaying data](https://github.com/olumpeter/react-projects/tree/main/004-displaying-data)
 1. [Conditional rendering](https://github.com/olumpeter/react-projects/tree/main/005-conditional-rendering)
 1. [Rendering lists](https://github.com/olumpeter/react-projects/tree/main/006-rendering-lists)
+1. [Responding to events](https://github.com/olumpeter/react-projects/tree/main/007-responding-to-events)
