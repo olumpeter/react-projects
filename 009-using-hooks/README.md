@@ -9,7 +9,7 @@ Hooks are more restrictive than other functions. You can only call Hooks *at the
 
 In the previous example, each `MyButton` had its own independent `count`, and when each button was clicked, only the `count` for the button clicked changed:
 
-![A picture showing the initial sharing of data in MyButton](./images/sharing-data.jpg) 
+![A picture showing the initial sharing of data in MyButton](./images/sharing-data-child.jpg) 
 
 However, often you’ll need components to *share data* and *always update together*.
 
