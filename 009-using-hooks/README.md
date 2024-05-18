@@ -90,11 +90,11 @@ When you click the button, the `onClick` handler fires. Each button’s onClick 
 <dl>
   Use the following URL:
   <dd>
-    https://olumpeter.github.io/react-projects/008-updating-the-screen/
+    https://olumpeter.github.io/react-projects/009-using-hooks/
   </dd>
   or click the following link:
   <dd>
-    <a href="https://olumpeter.github.io/react-projects/008-updating-the-screen/">Visit website</a>
+    <a href="https://olumpeter.github.io/react-projects/009-using-hooks/">Visit website</a>
   </dd>
 </dl>
 
