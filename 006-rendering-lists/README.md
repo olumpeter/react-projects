@@ -121,7 +121,7 @@ Notice how `<li>` has a key attribute. For each item in a list, you should pass 
 <dl>
   Use the following URL:
   <dd>
-    https://olumpeter.github.io/react-projects/005-conditional-rendering/
+    https://olumpeter.github.io/react-projects/006-rendering-lists/
   </dd>
   or click the following link:
   <dd>
