@@ -13,3 +13,4 @@ This repository carry react projects that I did for active learning. They're mea
 1. [Responding to events](https://github.com/olumpeter/react-projects/tree/main/007-responding-to-events)
 1. [Updating the screen](https://github.com/olumpeter/react-projects/tree/main/008-updating-the-screen)
 1. [Using hooks](https://github.com/olumpeter/react-projects/tree/main/009-using-hooks)
+1. [Your first component](https://github.com/olumpeter/react-projects/tree/main/010-your-first-component)
